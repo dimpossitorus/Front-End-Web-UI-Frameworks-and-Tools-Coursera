@@ -1,0 +1,48 @@
+.row-header {
+	margin:0px auto;
+	padding:0px auto;
+}
+
+.row-content {
+	margin:0px auto;
+	padding: 50px 0px 50px 0px;
+	border-bottom : 1px ridge;
+	min-height:400px;
+}
+
+.row-footer {
+	background-color :#AfAfAf;
+	margin:0px;
+	padding:20px 0px 20px 0px;
+}
+
+body{
+	padding: 0px 0px 0px 0px;
+	z-index: 0;
+}
+
+.navbar-inverse {
+	background:#303F9F;
+}
+.navbar {
+	margin : 0px;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+	color : #fff;
+	background: #1A237E;
+}
+
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus {
+	color : #fff;
+	background: #1A237E;
+}
+
+.jumbotron {
+	color : #fff;
+	background: #8080ff;
+}
